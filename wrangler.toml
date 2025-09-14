@@ -1,0 +1,7 @@
+name = "mozambique-news-monitor"
+main = "src/workers/index.js"
+compatibility_date = "2025-04-05"
+
+[site]
+bucket = "./src/pages"
+entry-point = "workers-site"
